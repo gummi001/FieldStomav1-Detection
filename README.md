@@ -21,3 +21,6 @@ To use the FieldStomav1 model, follow the steps below:
 
 4. **Run the Notebook:**
    - Follow the instructions provided in the `extract_parameters.ipynb` notebook to execute the model and perform stomata detection.
+
+## Contact
+For any questions or inquiries, please contact [Sainath Reddy Gummi](mailto:gummisainath@gmail.com).
